@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Zid Documentation'
+theme = ["hugo-shortcode-roneo-collection", 'hugo-theme-learn']
