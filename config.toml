@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://omarzd.github.io/ZidDocsSample'
 languageCode = 'en-us'
 title = 'Zid Documentation'
 theme = ["hugo-shortcode-roneo-collection", 'hugo-theme-learn']
