@@ -8,9 +8,9 @@ Zid is a customizable e-commerce platform that suits businesses of all sizes. It
 Please use the navigation layout on the left-side of the page to navigate through different topics on this site. Alternatively, you can start by browsing the most popular topics: 
 - Zid standards for a web store.
 - [Storefront themes and customization](https://docs.zid.sa/docs/getting-started).
-- API integrations.
+- [API integrations](api).
 - Set up interactions with different apps. 
 
-{{< box info >}}
-Due to the fast development Zid is undergoing, this documentation site is subject to constant updates and improvements. Your suggestions for improvement are always welcome and appreciated. If you have any questions, please do not hesitate to contact us at [appmarket@zid.sa](mailto:appmarket@zid.sa).
-{{< /box >}}
+{{% notice note %}}
+Due to the fast development Zid is undergoing, this documentation site is subject to constant updates and improvements. Your suggestions are always welcome and appreciated. If you have any questions, please do not hesitate to contact us at [appmarket@zid.sa](mailto:appmarket@zid.sa).
+{{% /notice %}}
